@@ -19,6 +19,7 @@ The project has two main directories:
 
 ### Folder Setup
 
+![Project Folder Setup](/porject-image/crud.png)
 
 ### server
 ```
